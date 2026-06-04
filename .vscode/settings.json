@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "/home/qwer/drone_ws/src/drone_practice",
+    "python-envs.defaultEnvManager": "ms-python.python:system"
+}

@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/drone_practice/lib/pkgconfig/drone_practice.pc
