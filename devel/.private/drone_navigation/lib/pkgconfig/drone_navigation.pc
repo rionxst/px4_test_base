@@ -1,0 +1,8 @@
+prefix=/root/catkin_ws/devel/.private/drone_navigation
+
+Name: drone_navigation
+Description: Description of drone_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

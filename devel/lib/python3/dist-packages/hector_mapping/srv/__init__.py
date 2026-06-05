@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/hector_mapping/lib/python3/dist-packages/hector_mapping/srv/__init__.py

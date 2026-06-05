@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/drone_2d_slam/lib/pkgconfig/drone_2d_slam.pc

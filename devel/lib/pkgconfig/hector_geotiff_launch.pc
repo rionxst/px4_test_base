@@ -1,0 +1,1 @@
+/root/catkin_ws/devel/.private/hector_geotiff_launch/lib/pkgconfig/hector_geotiff_launch.pc

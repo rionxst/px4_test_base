@@ -1,0 +1,8 @@
+prefix=/root/catkin_ws/install
+
+Name: drone_2d_slam
+Description: Description of drone_2d_slam
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
