@@ -1,7 +1,7 @@
 [  5%] Built target sensor_base
 [ 11%] Built target utils
-[ 15%] Built target autoptr_test
-[ 19%] Built target configfile
+[ 17%] Built target configfile
+[ 19%] Built target autoptr_test
 [ 25%] Built target sensor_odometry
 [ 31%] Built target sensor_range
 [ 35%] Built target configfile_test
@@ -12,8 +12,8 @@
 [ 66%] Built target rdk2carmen
 [ 70%] Built target icptest
 [ 74%] Built target scanmatch_test
-[ 86%] Built target gridfastslam
-[ 88%] Built target log_plot
-[ 94%] Built target gfs2neff
-[ 96%] Built target gfs2log
+[ 80%] Built target log_plot
+[ 88%] Built target gridfastslam
+[ 94%] Built target gfs2log
+[ 96%] Built target gfs2neff
 [100%] Built target gfs2rec

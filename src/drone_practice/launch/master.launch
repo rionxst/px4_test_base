@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<launch>
+
+    <!-- Gazebo + PX4 -->
+    <include file="$(find drone_practice)/launch/practice.launch"/>
+
+    <!-- SLAM -->
+    <include file="$(find drone_2d_slam)/launch/gmapping.launch"/>
+
+</launch>
